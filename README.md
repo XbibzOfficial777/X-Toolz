@@ -67,7 +67,7 @@ Proyek ini merupakan solusi komprehensif untuk developer Android yang ingin memi
 ### 📦 Clone Repository
 
 ```bash
-git clone https://github.com/username/X-Toolz.git
+git clone https://github.com/XbibzOfficial777/oolz.git
 cd X-Toolz
 ```
 
@@ -192,7 +192,7 @@ implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
 Menemukan bug atau punya saran? Hubungi kami melalui:
 - 📱 **Telegram**: [t.me/XbibzOfficial](https://t.me/XbibzOfficial)
 - 💬 **Discord**: Segera hadir
-- 📧 **Email**: support@xbibz.dev
+- 📧 **Email**: useernameernameToolzibzofficial@gmail.com
 
 ### 🤝 Kontribusi
 
