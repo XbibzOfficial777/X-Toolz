@@ -192,7 +192,7 @@ implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3'
 Menemukan bug atau punya saran? Hubungi kami melalui:
 - 📱 **Telegram**: [t.me/XbibzOfficial](https://t.me/XbibzOfficial)
 - 💬 **Discord**: Segera hadir
-- 📧 **Email**: useernameernameToolzibzofficial@gmail.com
+- 📧 **Email**: xbibzofficial@gmail.com
 
 ### 🤝 Kontribusi
 
